@@ -1,0 +1,23 @@
+{
+  "name": "goldphantom_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDisSomewhere/goldPhantom_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IDisSomewhere/goldPhantom_project/issues"
+  },
+  "homepage": "https://github.com/IDisSomewhere/goldPhantom_project#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}

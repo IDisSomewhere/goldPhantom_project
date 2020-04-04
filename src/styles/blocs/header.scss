@@ -1,0 +1,23 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f7f7f7;
+    height: 60px;
+    padding:0 10px 0 5px;
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+  }
+  
+  .navigation__title{
+    font-size: 20px;
+  }
+
+  .burger__image{
+      max-width: 50px;
+  }
+
+  .login__image{
+    max-width: 50px;
+}

@@ -1,0 +1,18 @@
+.preview{
+    background-color: #000000;
+    display: flex;
+    margin-top: 60px;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+
+  
+.preview__image{
+    margin-left: 25%;
+    margin-right: 25%;
+    max-height: 60vh;
+    max-width: 50%;
+  }
+  
+ 

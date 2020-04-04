@@ -1,0 +1,26 @@
+.artisanat{
+    background-color: #cfdeff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.artisanat__presentation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5vw;
+  }
+
+.artisanat__image{
+    max-width: 50%;
+}
+
+.artisanat__title{
+    text-align: center;
+    font-size: 25px;
+}
+
+.artisanat__text{
+    font-size: 18px;
+}

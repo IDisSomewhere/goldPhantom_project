@@ -1,0 +1,48 @@
+.suivre{
+    background-color: #abcdef;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.suivre__presentation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5vw;
+  }
+
+
+.suivre__title{
+    text-align: center;
+    font-size: 25px;
+}
+
+.suivre__text{
+    font-size: 18px;
+}
+
+.suivre__formulaire {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5vw;  
+  }
+  
+  
+.suivre__label {
+    text-align: center;
+    font-size: 18px;
+}
+  
+.suivre__input {
+    text-align: center;
+}
+
+.suivre__btn {
+    background-color: #85a9d0;
+    color: #cef4f6;
+    border: none;
+    text-align: center;
+    font-size: 18px;
+  }

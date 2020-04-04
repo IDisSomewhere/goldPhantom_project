@@ -1,0 +1,26 @@
+.presentation{
+    background-color: #edebfa;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.presentation__produit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5vw;
+  }
+
+.presentation__image{
+    max-width: 50%;
+}
+
+.presentation__title{
+    text-align: center;
+    font-size: 25px;
+}
+
+.presentation__text{
+    font-size: 18px;
+}
